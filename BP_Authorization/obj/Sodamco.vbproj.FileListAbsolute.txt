@@ -1,0 +1,416 @@
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.exe
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.pdb
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.xml
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.Resources.resources
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.exe
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.xml
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.pdb
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Sodamco.exe
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Sodamco.xml
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.exe
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.xml
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\Sodamco.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\Sodamco.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\Sodamco.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\bin\Debug\Sodamco.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\bin\Debug\Sodamco.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\bin\Debug\Sodamco.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\Sodamco.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco\Sodamco\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140624_Sodamco 1.0.0\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140624_Sodamco 1.0.0\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140624_Sodamco 1.0.0\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140624_Sodamco 1.0.0\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140624_Sodamco 1.0.0\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140624_Sodamco 1.0.0\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140624_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140702_Sodamco 1.0.0\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140702_Sodamco 1.0.0\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140702_Sodamco 1.0.0\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140702_Sodamco 1.0.0\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140702_Sodamco 1.0.0\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140702_Sodamco 1.0.0\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140702_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140704_Sodamco 1.0.0\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140704_Sodamco 1.0.0\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140704_Sodamco 1.0.0\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140704_Sodamco 1.0.0\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140704_Sodamco 1.0.0\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140704_Sodamco 1.0.0\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140704_Sodamco 1.0.0\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140804_Sodamco 1.0.0\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140804_Sodamco 1.0.0\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140804_Sodamco 1.0.0\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140804_Sodamco 1.0.0\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.0\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.0\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140804_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20141104_Sodamco 1.0.0\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20141104_Sodamco 1.0.0\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20141104_Sodamco 1.0.0\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20141104_Sodamco 1.0.0\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20141104_Sodamco 1.0.0\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20141104_Sodamco 1.0.0\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20141104_Sodamco 1.0.0\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\bin\Debug\Sodamco.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\bin\Debug\Sodamco.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\bin\Debug\Sodamco.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140715_Sodamco 1.0.3\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140715_Sodamco 1.0.3\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140715_Sodamco 1.0.3\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140715_Sodamco 1.0.3\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140715_Sodamco 1.0.3\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140715_Sodamco 1.0.3\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140715_Sodamco 1.0.3\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.exe
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.xml
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.pdb
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\Interop.Scripting.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.Resources.resources
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Debug\Sodamco.exe
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Debug\Sodamco.pdb
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Debug\Sodamco.xml
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Debug\Interop.Scripting.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Release\Sodamco.exe
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Release\Sodamco.pdb
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Release\Sodamco.xml
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Release\Interop.SAPbobsCOM.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Release\Interop.SAPbouiCOM.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\bin\Release\Interop.Scripting.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\ResolveAssemblyReference.cache
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\Interop.SAPbobsCOM.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\Interop.SAPbouiCOM.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\Interop.Scripting.dll
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\Sodamco.vbproj.ResolveComReference.cache
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\Sodamco.Resources.resources
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\Sodamco.vbproj.GenerateResource.Cache
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\Sodamco.exe
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\Sodamco.xml
+F:\Madhu Projects\20140716_Sodamco 1.0.4\obj\Release\Sodamco.pdb
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140716_Sodamco 1.0.4\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140716_Sodamco 1.0.4\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140716_Sodamco 1.0.4\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140716_Sodamco 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140716_Sodamco 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140716_Sodamco 1.0.4\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140716_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140721_Sodamco 1.0.4\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140721_Sodamco 1.0.4\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140721_Sodamco 1.0.4\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140721_Sodamco 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140721_Sodamco 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140721_Sodamco 1.0.4\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140721_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140801_Sodamco 1.0.4\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140801_Sodamco 1.0.4\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140801_Sodamco 1.0.4\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140801_Sodamco 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140801_Sodamco 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140801_Sodamco 1.0.4\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.exe
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.xml
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.pdb
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Debug\Sodamco.exe
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Debug\Sodamco.pdb
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Debug\Sodamco.xml
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.Resources.resources
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Release\Sodamco.exe
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Release\Sodamco.pdb
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Release\Sodamco.xml
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Release\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Release\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\bin\Release\Interop.Scripting.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\ResolveAssemblyReference.cache
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\Interop.Scripting.dll
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\Sodamco.vbproj.ResolveComReference.cache
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\Sodamco.Resources.resources
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\Sodamco.vbproj.GenerateResource.Cache
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\Sodamco.exe
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\Sodamco.xml
+D:\Dharmaraj\20140801_Sodamco 1.0.4\obj\Release\Sodamco.pdb
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140802_Sodamco 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.pdb
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.exe
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.xml
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.pdb
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Release\Sodamco.exe
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Release\Sodamco.pdb
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Release\Sodamco.xml
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Release\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Release\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Release\Interop.Scripting.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\Interop.Scripting.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\Sodamco.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\Sodamco.Resources.resources
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\Sodamco.vbproj.GenerateResource.Cache
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\Sodamco.exe
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\Sodamco.xml
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Release\Sodamco.pdb
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.exe
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.pdb
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.xml
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\bin\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\Interop.Scripting.dll
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.Resources.resources
+D:\Dharmaraj\2014\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140802_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140804_Sodamco 1.0.4\20140802_Sodamco 1.0.4\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\bin\Debug\Sodamco.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\bin\Debug\Sodamco.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\bin\Debug\Sodamco.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Deliveries\20140804_Sodamaco 1.0.5\20140804_Sodamco 1.0.4\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140804_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140823_Sodamco 1.0.5\20140804_Sodamco 1.0.5\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\Sodamco.exe
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\Sodamco.xml
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\bin\Debug\Sodamco.exe
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\bin\Debug\Sodamco.xml
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\20140909_Sodamco 1.0.6\20140909_Sodamco 1.0.6\obj\Debug\Sodamco.vbproj.GenerateResource.Cache

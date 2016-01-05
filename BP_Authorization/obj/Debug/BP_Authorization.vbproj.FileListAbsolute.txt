@@ -1,0 +1,43 @@
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Interop.Scripting.dll
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\BP_Authorization.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\bin\Debug\BP_Authorization.exe
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\bin\Debug\BP_Authorization.pdb
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\bin\Debug\BP_Authorization.xml
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\bin\Debug\Interop.Scripting.dll
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\BP_Authorization.Resources.resources
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\ResGen.read.1.tlog
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\ResGen.write.1.tlog
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\BP_Authorization.exe
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\BP_Authorization.xml
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\BP_Authorization.pdb
+D:\Projects\Madhu\BP_Authorization\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Projects\Madhu\BP_Authorization\obj\Debug\Interop.Scripting.dll
+D:\Projects\Madhu\BP_Authorization\obj\Debug\BP_Authorization.vbproj.ResolveComReference.cache
+D:\Projects\Madhu\BP_Authorization\obj\Debug\BP_Authorization.exe
+D:\Projects\Madhu\BP_Authorization\obj\Debug\BP_Authorization.xml
+D:\Projects\Madhu\BP_Authorization\obj\Debug\BP_Authorization.pdb
+D:\Projects\Madhu\BP_Authorization\bin\Debug\BP_Authorization.exe
+D:\Projects\Madhu\BP_Authorization\bin\Debug\BP_Authorization.pdb
+D:\Projects\Madhu\BP_Authorization\bin\Debug\BP_Authorization.xml
+D:\Projects\Madhu\BP_Authorization\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Projects\Madhu\BP_Authorization\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Projects\Madhu\BP_Authorization\bin\Debug\Interop.Scripting.dll
+D:\Projects\Madhu\BP_Authorization\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Madhu\BP_Authorization\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Projects\Madhu\BP_Authorization\obj\Debug\BP_Authorization.Resources.resources
+D:\Projects\Madhu\BP_Authorization\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Madhu\BP_Authorization\obj\Debug\ResGen.read.1.tlog
+D:\Projects\Madhu\BP_Authorization\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Madhu\BP_Authorization\obj\Debug\ResGen.write.1.tlog
+G:\International Projects_SAP9.0\Procons-4IT\BP Authorization\Deliveries\20141117_BP Authorization 1.0.1\20141117_BP_Authorization 1.0.1\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BP Authorization\Deliveries\20141117_BP Authorization 1.0.1\20141117_BP_Authorization 1.0.1\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\BP Authorization\Deliveries\20141117_BP Authorization 1.0.1\20141117_BP_Authorization 1.0.1\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\BP Authorization\Deliveries\20141117_BP Authorization 1.0.1\20141117_BP_Authorization 1.0.1\obj\Debug\BP_Authorization.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\BP Authorization\Deliveries\20141117_BP Authorization 1.0.1\20141117_BP_Authorization 1.0.1\obj\Debug\BP_Authorization.exe
+G:\International Projects_SAP9.0\Procons-4IT\BP Authorization\Deliveries\20141117_BP Authorization 1.0.1\20141117_BP_Authorization 1.0.1\obj\Debug\BP_Authorization.xml
+G:\International Projects_SAP9.0\Procons-4IT\BP Authorization\Deliveries\20141117_BP Authorization 1.0.1\20141117_BP_Authorization 1.0.1\obj\Debug\BP_Authorization.pdb

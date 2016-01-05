@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Interop.Scripting.dll
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Sodamco.exe
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Sodamco.xml
+C:\Users\LENOVO\Desktop\BP_Authorization\BP_Authorization\BP_Authorization\obj\Debug\Sodamco.pdb
